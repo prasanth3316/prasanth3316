@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Venkata
-- 👀 I’m interested in ( Chess || Badminton || Coding )
-- 🌱 I’m (currently && always) learning Algorithms
+# 👋 Hi, I'm @Venkata!
+
+*  I'm interested in:
+    * ♟️ Chess
+    * 🏸 Badminton
+    * 💻 Coding
+      
+  ...which is where most of my time mysteriously disappears.
 
 
 <!---
