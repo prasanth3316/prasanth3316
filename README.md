@@ -1,14 +1,16 @@
-# 👋 Hi, I'm @Venkata!
+# I'm Venkata 👋
 
-*  I'm interested in:
-    * ♟️ Chess
-    * 🏸 Badminton
-    * 💻 Coding
-      
-  ...which is where most of my time mysteriously disappears.
+CS grad student at the University of Cincinnati.
+
+Into chess, badminton, and reading popular science — brains, sleep, aging, whatever pulls me in.
+Also competitive programming, which technically counts as a hobby even 
+though it's just more coding.
+
+Currently researching protein language models.
+
+If you're here for the algorithms repo — hope it helps. That's genuinely 
+why I made it.
 
 
-<!---
-prasanth3316/prasanth3316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/venkataprasanth1729)  
+- gummadvr@mail.uc.edu
