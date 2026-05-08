@@ -1,4 +1,4 @@
-# I'm Venkata 👋
+# I'm Venkata
 
 CS grad student at the University of Cincinnati.
 
