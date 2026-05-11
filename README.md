@@ -8,8 +8,11 @@ though it's just more coding.
 
 Currently researching protein language models.
 
+
 If you're here for the algorithms repo — hope it helps. That's genuinely 
 why I made it.
+
+![Leetcode](https://raw.githubusercontent.com/prasanth3316/prasanth3316/main/leetcode2026.png)
 
 
 - [LinkedIn](https://www.linkedin.com/in/venkataprasanth1729)  
